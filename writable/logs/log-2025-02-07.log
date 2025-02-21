@@ -1,0 +1,226 @@
+CRITICAL - 2025-02-07 11:24:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "matieres/index.php"
+[Method: GET, Route: matieres]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('matieres/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('matieres/index', [], true)
+ 3 APPPATH\Controllers\Matiere.php(19): view('matieres/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Matiere->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matiere))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 19:44:21 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "classroom/list.php"
+[Method: GET, Route: classroom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('classroom/list.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/list', [], true)
+ 3 APPPATH\Controllers\ClassroomController.php(12): view('classroom/list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClassroomController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClassroomController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 19:55:18 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: classroom]
+in APPPATH\Views\Classroom\index.php on line 53.
+ 1 APPPATH\Views\Classroom\index.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\index.php', 53)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/index', [], true)
+ 5 APPPATH\Controllers\ClassroomController.php(12): view('classroom/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClassroomController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClassroomController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 19:55:35 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: classroom]
+in APPPATH\Views\Classroom\index.php on line 53.
+ 1 APPPATH\Views\Classroom\index.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\index.php', 53)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/index', [], true)
+ 5 APPPATH\Controllers\ClassroomController.php(12): view('classroom/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClassroomController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClassroomController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 19:55:47 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: classroom]
+in APPPATH\Views\Classroom\index.php on line 53.
+ 1 APPPATH\Views\Classroom\index.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\index.php', 53)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/index', [], true)
+ 5 APPPATH\Controllers\ClassroomController.php(12): view('classroom/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClassroomController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClassroomController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 19:57:23 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: classroom]
+in APPPATH\Views\Classroom\index.php on line 53.
+ 1 APPPATH\Views\Classroom\index.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\index.php', 53)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/index', [], true)
+ 5 APPPATH\Controllers\ClassroomController.php(12): view('classroom/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClassroomController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClassroomController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 20:00:46 --> ParseError: Unclosed '{' on line 7
+[Method: GET, Route: classroom]
+in APPPATH\Controllers\Classroom.php on line 56.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\CI\\app\\Controllers\\Classroom.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Classroom')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Classroom')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Classroom', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 20:11:19 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+[Method: GET, Route: classroom]
+in SYSTEMPATH\Database\BaseConnection.php on line 927.
+ 1 SYSTEMPATH\Model.php(714): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(895): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\ClassroomModel.php(11): CodeIgniter\Model->__get('load')
+ 4 APPPATH\Controllers\ClassroomController.php(10): App\Models\ClassroomModel->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClassroomController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClassroomController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 20:11:36 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+[Method: GET, Route: classroom]
+in SYSTEMPATH\Database\BaseConnection.php on line 927.
+ 1 SYSTEMPATH\Model.php(714): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(895): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\ClassroomModel.php(11): CodeIgniter\Model->__get('load')
+ 4 APPPATH\Controllers\ClassroomController.php(10): App\Models\ClassroomModel->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClassroomController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClassroomController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 20:20:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "classrooms/index.php"
+[Method: GET, Route: classroom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('classrooms/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classrooms/index', [], true)
+ 3 APPPATH\Controllers\Classroom.php(19): view('classrooms/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 20:21:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "classrooms/index.php"
+[Method: GET, Route: classroom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('classrooms/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classrooms/index', [], true)
+ 3 APPPATH\Controllers\Classroom.php(19): view('classrooms/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 20:24:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "classrooms/index.php"
+[Method: GET, Route: classroom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('classrooms/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classrooms/index', [], true)
+ 3 APPPATH\Controllers\Classroom.php(19): view('classrooms/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 20:26:57 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "classrooms/index.php"
+[Method: GET, Route: classroom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('classrooms/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classrooms/index', [], true)
+ 3 APPPATH\Controllers\Classroom.php(19): view('classrooms/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 20:27:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "classrooms/index.php"
+[Method: GET, Route: classroom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('classrooms/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classrooms/index', [], true)
+ 3 APPPATH\Controllers\Classroom.php(19): view('classrooms/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 20:28:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "classrooms/index.php"
+[Method: GET, Route: classroom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('classrooms/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classrooms/index', [], true)
+ 3 APPPATH\Controllers\Classroom.php(19): view('classrooms/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 20:30:21 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "classrooms/index.php"
+[Method: GET, Route: classroom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('classrooms/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classrooms/index', [], true)
+ 3 APPPATH\Controllers\Classroom.php(21): view('classrooms/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 20:30:22 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "classrooms/index.php"
+[Method: GET, Route: classroom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('classrooms/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classrooms/index', [], true)
+ 3 APPPATH\Controllers\Classroom.php(21): view('classrooms/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-07 20:30:22 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "classrooms/index.php"
+[Method: GET, Route: classroom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('classrooms/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classrooms/index', [], true)
+ 3 APPPATH\Controllers\Classroom.php(21): view('classrooms/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

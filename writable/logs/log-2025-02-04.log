@@ -1,0 +1,140 @@
+CRITICAL - 2025-02-04 18:29:50 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: students]
+in APPPATH\Views\Students\index.php on line 26.
+ 1 APPPATH\Views\Students\index.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students/index', [], true)
+ 5 APPPATH\Controllers\Students.php(18): view('students/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Students->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-04 18:30:07 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: students]
+in APPPATH\Views\Students\index.php on line 26.
+ 1 APPPATH\Views\Students\index.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students/index', [], true)
+ 5 APPPATH\Controllers\Students.php(18): view('students/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Students->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-04 18:37:04 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: students]
+in APPPATH\Views\Students\index.php on line 26.
+ 1 APPPATH\Views\Students\index.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students/index', [], true)
+ 5 APPPATH\Controllers\Students.php(18): view('students/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Students->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-04 18:43:01 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: students]
+in APPPATH\Views\Students\index.php on line 26.
+ 1 APPPATH\Views\Students\index.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students/index', [], true)
+ 5 APPPATH\Controllers\Students.php(18): view('students/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Students->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-04 18:45:59 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: students]
+in APPPATH\Views\Students\index.php on line 26.
+ 1 APPPATH\Views\Students\index.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students/index', [], true)
+ 5 APPPATH\Controllers\Students.php(18): view('students/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Students->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-04 18:47:43 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: students]
+in APPPATH\Views\Students\index.php on line 26.
+ 1 APPPATH\Views\Students\index.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students/index', [], true)
+ 5 APPPATH\Controllers\Students.php(18): view('students/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Students->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-04 18:58:53 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: students]
+in APPPATH\Views\Students\index.php on line 26.
+ 1 APPPATH\Views\Students\index.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students/index', [], true)
+ 5 APPPATH\Controllers\Students.php(18): view('students/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Students->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-04 19:05:31 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: students]
+in APPPATH\Views\Students\index.php on line 26.
+ 1 APPPATH\Views\Students\index.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students/index', [], true)
+ 5 APPPATH\Controllers\Students.php(18): view('students/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Students->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-04 19:07:15 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: students]
+in APPPATH\Views\Students\index.php on line 27.
+ 1 APPPATH\Views\Students\index.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php', 27)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students/index', [], true)
+ 5 APPPATH\Controllers\Students.php(18): view('students/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Students->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-04 19:16:24 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: students]
+in APPPATH\Views\Students\index.php on line 26.
+ 1 APPPATH\Views\Students\index.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Students\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students/index', [], true)
+ 5 APPPATH\Controllers\Students.php(18): view('students/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Students->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Students))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

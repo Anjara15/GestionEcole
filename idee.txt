@@ -1,0 +1,13 @@
+gestion salle de classe:
+    Nom de la salle : le libellé de la salle
+    Type de la salle : Amphithéâtre, Laboratoire, Salle de classe, salle de conférence
+    Capacité : la capacité en nombre d’élève de la salle
+    Action : 3 boutons d’actions permettant de voir l’emploi du temps, modifier la salle ou de la supprimer
+
+
+gestion de matière:
+    Le niveau : le niveau dans lequel est enseignée la matière
+    Nom de la matière : le libellé de la matière
+    Enseignant : les nom des enseignants qui enseignent cette matière dans ce niveau
+    Type : La matière est-elle obligatoire pour les élèves ou en option
+    Action : 2 boutons d’actions permettant de modifier la matières ou de supprimer la matière

@@ -1,0 +1,796 @@
+CRITICAL - 2025-02-08 08:17:05 --> ErrorException: Undefined variable $teacclassroomshers
+[Method: GET, Route: classroom]
+in APPPATH\Views\Classroom\index.php on line 51.
+ 1 APPPATH\Views\Classroom\index.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $teacclassroomshers', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\index.php', 51)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/index', [], true)
+ 5 APPPATH\Controllers\Classroom.php(19): view('classroom/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 08:36:12 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(24): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 08:38:37 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 08:38:57 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 08:39:23 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 08:40:23 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 08:40:50 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 08:43:42 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 08:44:05 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:06:35 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:07:12 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:07:44 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:07:48 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:09:38 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:10:45 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:12:07 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:23:36 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:31:31 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:31:33 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:31:34 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:32:06 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 09:36:32 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 10:09:41 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 10:09:44 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 16:46:40 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:05:44 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:19:10 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:19:11 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:19:36 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 67.
+ 1 APPPATH\Views\Classroom\add.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:20:52 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:20:52 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:20:53 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:20:54 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:20:54 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:20:55 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:21:00 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:25:18 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(39): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:25:22 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(39): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:29:47 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:29:49 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:36:06 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(27): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:36:20 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(27): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:36:21 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(27): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:36:22 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(27): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:36:23 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(27): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:36:23 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(27): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:36:24 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(27): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:36:25 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(27): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:37:55 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(27): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:41:53 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(27): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:42:09 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(27): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:44:45 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 19:52:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "classroom/add.php"
+[Method: GET, Route: classroom/add]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('classroom/add.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 3 APPPATH\Controllers\Classroom.php(29): view('classroom/add')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 20:03:38 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(35): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 20:10:13 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(35): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 20:12:25 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(35): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-08 20:15:03 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(35): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

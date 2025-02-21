@@ -1,0 +1,140 @@
+CRITICAL - 2025-02-09 09:40:20 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(35): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-09 09:49:34 --> ErrorException: Undefined variable $classrooms
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classrooms', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(35): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-09 09:52:48 --> ErrorException: Undefined variable $classroom
+[Method: GET, Route: classroom/add]
+in APPPATH\Views\Classroom\add.php on line 70.
+ 1 APPPATH\Views\Classroom\add.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $classroom', 'C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php', 70)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Classroom\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('classroom/add', [], true)
+ 5 APPPATH\Controllers\Classroom.php(35): view('classroom/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Classroom->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-09 12:19:38 --> ErrorException: Undefined array key "event_name"
+[Method: GET, Route: schedule]
+in APPPATH\Views\Schedule\index.php on line 12.
+ 1 APPPATH\Views\Schedule\index.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "event_name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\index.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\Schedule.php(19): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Schedule->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Schedule))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-09 12:19:54 --> ErrorException: Undefined array key "event_name"
+[Method: GET, Route: schedule]
+in APPPATH\Views\Schedule\index.php on line 12.
+ 1 APPPATH\Views\Schedule\index.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "event_name"', 'C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\index.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\Schedule.php(19): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Schedule->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Schedule))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-09 12:47:18 --> ErrorException: Undefined variable $teacher
+[Method: GET, Route: schedule]
+in APPPATH\Views\Schedule\index.php on line 58.
+ 1 APPPATH\Views\Schedule\index.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $teacher', 'C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\index.php', 58)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\Schedule.php(19): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Schedule->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Schedule))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-09 12:48:07 --> ErrorException: Undefined variable $teacher
+[Method: GET, Route: schedule]
+in APPPATH\Views\Schedule\index.php on line 58.
+ 1 APPPATH\Views\Schedule\index.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $teacher', 'C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\index.php', 58)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\Schedule.php(19): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Schedule->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Schedule))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-09 13:02:39 --> ErrorException: Undefined variable $schedule
+[Method: GET, Route: schedule/edit/2]
+in APPPATH\Views\Schedule\edit.php on line 45.
+ 1 APPPATH\Views\Schedule\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $schedule', 'C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('schedule/edit', [], true)
+ 5 APPPATH\Controllers\Schedule.php(56): view('schedule/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Schedule->edit('2')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Schedule))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-09 13:02:56 --> ErrorException: Undefined variable $schedule
+[Method: GET, Route: schedule/edit/2]
+in APPPATH\Views\Schedule\edit.php on line 45.
+ 1 APPPATH\Views\Schedule\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $schedule', 'C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('schedule/edit', [], true)
+ 5 APPPATH\Controllers\Schedule.php(56): view('schedule/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Schedule->edit('2')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Schedule))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-09 13:02:58 --> ErrorException: Undefined variable $schedule
+[Method: GET, Route: schedule/edit/2]
+in APPPATH\Views\Schedule\edit.php on line 45.
+ 1 APPPATH\Views\Schedule\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $schedule', 'C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\CI\\app\\Views\\Schedule\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('schedule/edit', [], true)
+ 5 APPPATH\Controllers\Schedule.php(56): view('schedule/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Schedule->edit('2')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Schedule))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
